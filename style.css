@@ -1,0 +1,42 @@
+.box{
+position: absolute;
+top: 30%;
+left: 14%;
+font-size: 25px;
+
+}
+
+.box h1{
+    color: #2c83f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 300px;
+    height: 340px;
+    position: absolute;
+    top: 20%;
+    left: 57%;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    border-radius: 15px;
+}
+
+table,tr,td,th{
+    padding: 7px;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black
+}
+
+th{
+    background-color: rgb(135, 230, 147);
+    width: 90px;
+    height: 30px;
+}
+
+td:hover{
+    background-color: #2c83f2;
+}
+
